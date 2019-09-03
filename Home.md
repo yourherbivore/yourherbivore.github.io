@@ -2,5 +2,8 @@
 
 This is the homepage to my future portfolio
 
-''' This will contain my education path
--CS50: currently on Pset 3 of 10
+
+# This will contain my education path
+Course | Progress
+------------ | -------------
+CS50 | Currently on Pset 3 of 10
