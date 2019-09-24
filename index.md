@@ -4,6 +4,7 @@ This is the landing page for my learning progress and eventually my portfolio.
 
 
 # This will contain my education path
+
 | Course | Progress |
 ------------ | -------------
 | [CS50](https://docs.cs50.net/2019/x/psets/4/speller/hashtable/speller.html) | Pset 4: Spell Checker Project |
