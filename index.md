@@ -13,4 +13,8 @@ This is the landing page for my learning progress and eventually my portfolio.
 | [Hackerrank](https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code) | 30 Days of Code 1-star Badge |
 
 
+![alt text](https://www.codewars.com/users/yourherbivore/badges/large "CodeWars Badges")
+
+
+
 
