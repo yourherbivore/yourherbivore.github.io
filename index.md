@@ -13,7 +13,7 @@ This is the landing page for my learning journey and my eventual portfolio.
 
 # Practice and Fun 
 
-### CodeWars: ![CodeWars Badges](https://www.codewars.com/users/yourherbivore/badges/small)
+### CodeWars: [![CodeWars Badges](https://www.codewars.com/users/yourherbivore/badges/small)](https://www.codewars.com/dashboard)
 
 
 | Hackerrank | Badge |
