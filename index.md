@@ -19,7 +19,7 @@ This is the landing page for my learning journey and my eventual portfolio.
 | Hackerrank | Badge |
 ------------ | -------------
 | [Ruby](https://www.hackerrank.com/domains/ruby?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=ruby) | 3-star Badge |
-| [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code) |  1-star Badge |
+| [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code) |  2-star Badge |
 
 | CodeChef | Badge |
 ------------ | -------------
